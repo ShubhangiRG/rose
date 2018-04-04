@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<title>REGISTRATION FORM</title>
+		<script src="myscript1.js"></script>
+	</head>
+	
+	<body>
+
+	<form name="register">
+		<h1 align="center"> STUDENT &#160; REGISTRATION &#160; FORM </h1>
+	
+	<table align="center" cellpadding = "10">
+
+	<!----- First Name ---------------------------------------------------------->
+		<tr>
+			<td><label>FIRST NAME</label></td>
+			<td><input type="text" name="First_name" maxlength="30"/></td>
+		</tr>
+		
+	<!----- Last Name ---------------------------------------------------------->
+		<tr>
+			<td><label>LAST NAME</label></td>
+			<td><input type="text" name="Last_name" maxlength="30"/></td>
+		</tr>
+	
+	<!----- College Name ---------------------------------------------------------->
+		<tr>
+			<td><label>COLLEGE</label></td>
+			<td><input type="text" name="College" maxlength="30"/></td>
+		</tr>
+		
+	<!----- Gender ---------------------------------------------------------->
+		<tr>
+			<td><label>GENDER</label></td>
+			<td><input type="radio" name="Gender" value="Female"/>FEMALE
+				<input type="radio" name="Gender" value="Male"/>MALE
+			</td>
+		</tr>
+		
+	<!----- Email ---------------------------------------------------------->
+		<tr>
+			<td><label>EMAIL</label></td>
+			<td><input type="email" name="email"/></td>
+		</tr>
+		
+	<!----- Date ---------------------------------------------------------->
+		<tr>
+			<td><label>DOB</label></td>
+			<td><input type="date" name="bday" max="2000-12-31">
+			</td>
+		</tr>
+		
+	<!----- MOBILE NO. ---------------------------------------------------------->
+		<tr>
+			<td><label>MOBILE NO.</label></td>
+			<td><input type="text" name="no">
+			</td>
+		</tr>
+	<!----- Submit ---------------------------------------------------------->
+		<tr align="center">
+			<td><input type="submit" value="SUBMIT" onclick="return Validate()"/></td>
+		</tr>
+
+	</table>
+</form>
+	</body>
+</html>

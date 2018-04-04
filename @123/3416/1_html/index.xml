@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<college>
+   
+	<event name="Dance">
+	<type>Only individual</type>
+	<co-ordinator>"Maher Patil"</co-ordinator>
+	<info>Date:12/02/2018</info>
+	<fees>Rs.250/-</fees>
+	</event>
+
+	<event name="Music">
+	<type>Individual or group</type>
+	<co-ordinator>"Saurabh Kothavale"</co-ordinator>
+	<info>Date:22/02/2018</info>
+	<fees>Rs.150/-</fees>
+	</event>
+
+        <event name="Paper Presentation">
+	<type>Individual</type>
+	<co-ordinator>"Abhiruchi Malekar"</co-ordinator>
+	<info>Date:22/02/2018</info>
+	<fees>Rs.150/-</fees>
+	</event>
+
+	<event name="CodeIT">
+	<type>Individual/group</type>
+	<co-ordinator>"Rajeshree Kulkarni"</co-ordinator>
+	<info>Date:12/02/2018</info>
+	<fees>Rs.180/-</fees>
+	</event>
+	
+
+	<event name="PseudoCo">
+	<type>Individual</type>
+	<co-ordinator>"Manali Jagtap"</co-ordinator>
+	<info>Date:2/02/2018</info>
+	<fees>Rs.80/-</fees>
+	</event>
+
+
+</college>

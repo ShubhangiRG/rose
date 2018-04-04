@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="datadisplay.xsl"?>
+<mainevent>
+<event>
+   <Eventname>National Level Project Contest</Eventname>
+   <br>
+   <Data>National Level Compitition </Data>
+   <Department>COMPUTER</Department>
+   <Resourceperson>miss.monali</Resourceperson>
+   <Contact>9090989890</Contact>
+   <Email>mina99@email.com</Email>
+</event>
+<event>
+   <Eventname>Machine Learning Workshop 2018</Eventname>
+   <Data>workshop </Data>
+   <Department>COMPUTER</Department>
+   <Resourceperson>Kunal Deshpande</Resourceperson>
+   <Contact>9090909090</Contact>
+   <Email>deshpandekunal@gmail.com</Email>
+</event>
+<event>
+   <Eventname>Zion 2018 Cultural Fest</Eventname>
+   <Data>Cultural Event</Data>
+   <Department>CIVIL</Department>
+   <Resourceperson>Nutan Bansal</Resourceperson>
+   <Contact>9090989890</Contact>
+   <Email>nutanbansal@email.com</Email>
+</event>
+<event>
+   <Eventname>National Level Project Contest</Eventname>
+   <Data>National Level Compitition </Data>
+   <Department>COMPUTER</Department>
+   <Resourceperson>miss.monali</Resourceperson>
+   <Contact>9090989890</Contact>
+   <Email>mina99@email.com</Email>
+</event>
+<event>
+   <Eventname>Quiz Contest</Eventname>
+   <Data>Quis</Data>
+   <Department>MECHANICAL</Department>
+   <Resourceperson>Tushar Bhagvat</Resourceperson>
+   <Contact>9095589890</Contact>
+   <Email>tusharbhagvat@email.com</Email>
+</event>
+<event>
+   <Eventname>Impromptu Poetry Contest</Eventname>
+   <Data>National Level Compitition </Data>
+   <Department>ALL BRANCH</Department>
+   <Resourceperson>Tanvi Desai</Resourceperson>
+   <Contact>8990989890</Contact>
+   <Email>tanvidesai@email.com</Email>
+</event>
+</mainevent>
